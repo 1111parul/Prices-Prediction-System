@@ -1,0 +1,9 @@
+zenml[server]==0.74.0
+notebook
+pyarrow
+datasets
+transformers
+transformers[torch]
+torch
+sentencepiece
+protobuf
